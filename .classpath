@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Feature1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/cssparser-0.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/htmlunit-driver-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/neko-htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/selenium-3.3.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/selenium-server-standalone-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/websocket-api-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/websocket-client-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/websocket-common-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/References Libraries/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-core-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-gherkin-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-java-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-junit-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-picocontainer-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-plugin-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/cucumber-reporting-5.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/gherkin-24.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/hamcrest-core-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/junit-jupiter-5.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/junit-jupiter-api-5.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/junit-vintage-engine-5.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/cucumber jars/mockito-junit-jupiter-4.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/webdrivermanager-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/tag-expressions-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/picocontainer-2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/messages-19.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/gson-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/docstring-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/datatable-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/cucumber-plugin-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/cucumber-picocontainer-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/cucumber-gherkin-messages-7.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/cucumber-expressions-16.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/ci-environment-9.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/maven-cucumber-reporting-5.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/maven-plugin-api-3.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/L E N O V O/Downloads/html-formatter-20.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
